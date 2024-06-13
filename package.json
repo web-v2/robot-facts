@@ -1,0 +1,17 @@
+{
+  "name": "robot-facts",
+  "version": "1.0.0",
+  "description": "App desarrollada con javascript que busca directorios dentro de una carpeta y las copia a un nuevo directorio raiz en base a un array con el listado de las facturas.",
+  "main": "robot.js",
+  "scripts": {
+    "test": "node robot.js"
+  },
+  "keywords": [
+    "RoboCopy",
+    "Js",
+    "javascript",
+    "dir"
+  ],
+  "author": "Samir Vergara V.",
+  "license": "MIT"
+}
